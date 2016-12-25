@@ -1,5 +1,4 @@
-"""This example is all about string operations
-1. How to use String variables to concatination
+"""This example is use String variables to concatination
 """
 import sys
 
